@@ -1,0 +1,6 @@
+16:58:23 **** Incremental Build of configuration Debug for project ECE 454 - Lab 3-4 (PWM Intensity External LED and Servo) ****
+make all 
+make: Nothing to be done for 'all'.
+
+16:58:24 Build Finished (took 515ms)
+

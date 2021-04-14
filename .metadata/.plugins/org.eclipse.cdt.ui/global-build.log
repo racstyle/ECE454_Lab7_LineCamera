@@ -1,0 +1,18 @@
+16:57:05 **** Incremental Build of configuration Debug for project ECE 454 - Lab 3-4 (PWM Intensity External LED and Servo) ****
+make all 
+Building file: ../Sources/Events.c
+Invoking: Cross ARM C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -I"C:/Users/rachel/OneDrive/Documents/UIC/2021 Spring/ECE 454/Labs/workspace.kds/ECE 454 - Lab 3-4 (PWM Intensity External LED and Servo)/Static_Code/PDD" -I"C:/Users/rachel/OneDrive/Documents/UIC/2021 Spring/ECE 454/Labs/workspace.kds/ECE 454 - Lab 3-4 (PWM Intensity External LED and Servo)/Static_Code/IO_Map" -I"C:/Users/rachel/OneDrive/Documents/UIC/2021 Spring/ECE 454/Labs/workspace.kds/ECE 454 - Lab 3-4 (PWM Intensity External LED and Servo)/Sources" -I"C:/Users/rachel/OneDrive/Documents/UIC/2021 Spring/ECE 454/Labs/workspace.kds/ECE 454 - Lab 3-4 (PWM Intensity External LED and Servo)/Generated_Code" -std=c99 -MMD -MP -MF"Sources/Events.d" -MT"Sources/Events.o" -c -o "Sources/Events.o" "../Sources/Events.c"
+Finished building: ../Sources/Events.c
+ 
+Building target: ECE 454 - Lab 3-4 (PWM Intensity External LED).elf
+Invoking: Cross ARM C++ Linker
+arm-none-eabi-g++ -mcpu=cortex-m0plus -mthumb -O0 -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections  -g3 -T "C:/Users/rachel/OneDrive/Documents/UIC/2021 Spring/ECE 454/Labs/workspace.kds/ECE 454 - Lab 3-4 (PWM Intensity External LED and Servo)/Project_Settings/Linker_Files/ProcessorExpert.ld" -Xlinker --gc-sections -L"C:/Users/rachel/OneDrive/Documents/UIC/2021 Spring/ECE 454/Labs/workspace.kds/ECE 454 - Lab 3-4 (PWM Intensity External LED and Servo)/Project_Settings/Linker_Files" -Wl,-Map,"ECE 454 - Lab 3-4 (PWM Intensity External LED).map" -specs=nano.specs -specs=nosys.specs -o "ECE 454 - Lab 3-4 (PWM Intensity External LED).elf"  ./Sources/Events.o ./Sources/main.o  ./Project_Settings/Startup_Code/startup.o  ./Generated_Code/Cpu.o ./Generated_Code/PE_LDD.o ./Generated_Code/PWM1.o ./Generated_Code/PWM2.o ./Generated_Code/PwmLdd1.o ./Generated_Code/PwmLdd2.o ./Generated_Code/TU1.o ./Generated_Code/TU2.o ./Generated_Code/Vectors.o   
+Finished building target: ECE 454 - Lab 3-4 (PWM Intensity External LED).elf
+ 
+16:57:09 **** Incremental Build of configuration Debug for project ECE 454 - Lab 3-4 (PWM Intensity External LED and Servo) ****
+make all 
+make: Nothing to be done for 'all'.
+16:58:23 **** Incremental Build of configuration Debug for project ECE 454 - Lab 3-4 (PWM Intensity External LED and Servo) ****
+make all 
+make: Nothing to be done for 'all'.

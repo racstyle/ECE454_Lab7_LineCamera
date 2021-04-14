@@ -1,0 +1,6 @@
+16:27:23 **** Incremental Build of configuration Debug for project ECE 454 - Lab 3-3 (Blink LED) ****
+make all 
+make: Nothing to be done for 'all'.
+
+16:27:24 Build Finished (took 469ms)
+

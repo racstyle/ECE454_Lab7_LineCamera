@@ -1,0 +1,6 @@
+23:13:04 **** Incremental Build of configuration Debug for project ECE 454 - Lab 1-4n5 (ADC) ****
+make all 
+make: Nothing to be done for 'all'.
+
+23:13:06 Build Finished (took 1s.219ms)
+

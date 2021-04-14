@@ -1,0 +1,6 @@
+23:10:43 **** Incremental Build of configuration Debug for project ECE 454 - Lab 1-3.b (External LED) ****
+make all 
+make: Nothing to be done for 'all'.
+
+23:10:44 Build Finished (took 922ms)
+
